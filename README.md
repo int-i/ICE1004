@@ -4,9 +4,10 @@
 
 ## Index
 
-| Semester | Professor   | Student                      |
-| -------- | ----------- | ---------------------------- |
-| ’20 Fall | Haknam Choi | [Anonymous](./a01/README.md) |
+| Semester | Professor   | Student                                                |
+| -------- | ----------- | ------------------------------------------------------ |
+| ’20 Fall | Haknam Choi | [Anonymous](./a01/README.md)                           |
+| ’20 Fall | Haknam Choi | [Mingyeom Kim](https://github.com/MingyeomKim/ICE1004) |
 
 Object-Oriented Programming(ICE1004) is a new course from 2020.
 
